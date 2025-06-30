@@ -1,0 +1,16 @@
+body {
+  background-color: #121212;
+  color: #eee;
+  font-family: sans-serif;
+  text-align: center;
+  padding-top: 50px;
+}
+button {
+  background-color: #6200ea;
+  color: white;
+  border: none;
+  padding: 15px 25px;
+  margin: 10px;
+  border-radius: 8px;
+  font-size: 16px;
+}
